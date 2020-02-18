@@ -1,0 +1,28 @@
+{
+  "name": "csc346server",
+  "version": "0.1.0",
+  "description": "Demo webserver for CSC346",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitmn94/csc346server.git"
+  },
+  "keywords": [
+    "demo",
+    "csc346",
+    "webserver"
+  ],
+  "author": "Bret L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitmn94/csc346server/issues"
+  },
+  "homepage": "https://github.com/hitmn94/csc346server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
